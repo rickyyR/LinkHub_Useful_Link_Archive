@@ -9,7 +9,7 @@ A List of useful Links
 
 - [Extensive and free course for learning Java (Suited for beginners)](https://java-programming.mooc.fi/)
 - [IBM Courses with Badges/Certificates on more than but mainly programming](https://www.ibm.com/training/)
-- [Leetcode - Practice programming and more](https://leetcode.com/)
+- [Leetcode - Practice programming problems and more](https://leetcode.com/)
 - [Explanation on what Spring(Framework) is and why it is used](https://www.baeldung.com/spring-why-to-choose)
 - [Writeup on game profiling](https://technology.riotgames.com/news/profiling-measurement-and-analysis)
 
