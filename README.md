@@ -12,6 +12,7 @@ A List of useful Links
 - [Leetcode - Practice programming problems and more](https://leetcode.com/)
 - [Explanation on what Spring(Framework) is and why it is used](https://www.baeldung.com/spring-why-to-choose)
 - [Writeup on game profiling](https://technology.riotgames.com/news/profiling-measurement-and-analysis)
+- [Free HTML5 templates](https://html5up.net/)
 
 ### Finances
 - [Make some money answering surveys online](https://www.prolific.co/)
