@@ -22,6 +22,9 @@ A List of useful Links
 ### Finances
 - [Make some money answering surveys online](https://www.prolific.co/)
 
+### Art
+- [How to draw on pretty much everthing you can imagine](https://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html)
+
 ### Misc
 - [Practice 10 finger typing](https://monkeytype.com/)
 - [The Internets Archive](https://archive.org/)
