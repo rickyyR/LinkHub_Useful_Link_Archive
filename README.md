@@ -19,6 +19,7 @@ A List of useful Links
 - [Free and paid game assets](https://itch.io/game-assets)
 - [Bundle/release Java 14(+) apps with Jpackage](https://alvinalexander.com/java/how-use-jpackage-command-java-14-jdk-sdk/)
 - [What is a relational database?](https://www.ibm.com/analytics/relational-database)
+- [Learn PostgreSQL from scratch](https://www.postgresqltutorial.com/)
 
 ### Finances
 - [Make some money answering surveys online](https://www.prolific.co/)
