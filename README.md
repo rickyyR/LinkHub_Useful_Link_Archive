@@ -25,6 +25,7 @@ A List of useful Links
 
 ### Art
 - [How to draw on pretty much everthing you can imagine](https://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html)
+- [Practice gesture drawing from random reference images](https://quickposes.com/en)
 
 ### Misc
 - [Practice 10 finger typing](https://monkeytype.com/)
