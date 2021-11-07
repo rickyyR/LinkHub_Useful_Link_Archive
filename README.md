@@ -22,6 +22,7 @@ A List of useful Links
 - [Learn PostgreSQL from scratch](https://www.postgresqltutorial.com/)
 - [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book/)
 - [Regex Generator](https://regex-generator.olafneumann.org)
+- [DOM Standards](https://dom.spec.whatwg.org/)
 
 ### Finances
 - [Make some money answering surveys online](https://www.prolific.co/)
