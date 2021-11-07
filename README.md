@@ -4,7 +4,7 @@
 
 - [VPN Provider Comparison Table](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418)
 - [Learn Ethical Hacking (some free lessons but mostly paid)](https://tryhackme.com)
-- [Nmap Cheat-Sheet](https://docs.google.com/document/d/1ekOUND30jr4RmD-QzL5XQUPPoZkbQwJgvuZ7BwlicIE/edit)
+- [Nmap Cheatsheet](https://docs.google.com/document/d/1ekOUND30jr4RmD-QzL5XQUPPoZkbQwJgvuZ7BwlicIE/edit)
 - [Common Vulnerabilities and Exposures Database](https://www.cve.org/)
 
 ### Programming
@@ -22,6 +22,7 @@
 - [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book/)
 - [Regex Generator](https://regex-generator.olafneumann.org)
 - [DOM Standards](https://dom.spec.whatwg.org/)
+- [Xpath Cheatsheet](https://devhints.io/xpath)
 
 ### Finances
 - [Make some money answering surveys online](https://www.prolific.co/)
