@@ -21,6 +21,7 @@ A List of useful Links
 - [What is a relational database?](https://www.ibm.com/analytics/relational-database)
 - [Learn PostgreSQL from scratch](https://www.postgresqltutorial.com/)
 - [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book/)
+- [Regex Generator](https://regex-generator.olafneumann.org)
 
 ### Finances
 - [Make some money answering surveys online](https://www.prolific.co/)
