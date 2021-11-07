@@ -20,6 +20,7 @@ A List of useful Links
 - [Bundle/release Java 14(+) apps with Jpackage](https://alvinalexander.com/java/how-use-jpackage-command-java-14-jdk-sdk/)
 - [What is a relational database?](https://www.ibm.com/analytics/relational-database)
 - [Learn PostgreSQL from scratch](https://www.postgresqltutorial.com/)
+- [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book/)
 
 ### Finances
 - [Make some money answering surveys online](https://www.prolific.co/)
