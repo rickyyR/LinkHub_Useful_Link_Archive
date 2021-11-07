@@ -28,7 +28,7 @@ A List of useful Links
 - [Get high payment for different studies (hard to get in, mostly for industry professionals)](https://app.respondent.io/respondents/v2/login)
 
 ### Art
-- [How to draw on pretty much everthing you can imagine](https://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html)
+- ["How to draw" on pretty much everthing you can imagine](https://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html)
 - [Practice gesture drawing from random reference images](https://quickposes.com/en)
 
 ### Misc
