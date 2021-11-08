@@ -36,3 +36,4 @@
 ### Misc
 - [Practice 10 finger typing](https://monkeytype.com/)
 - [The Internets Archive](https://archive.org/)
+- [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)
