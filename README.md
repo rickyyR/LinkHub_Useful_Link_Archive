@@ -15,6 +15,7 @@
 ### Web
 - [Free HTML5 templates](https://html5up.net/)
 - [Free and paid game assets](https://itch.io/game-assets)
+- [Common User Agent List](https://www.networkinghowtos.com/howto/common-user-agent-list/)
 ### Databases & Markup
 - [DOM Standards](https://dom.spec.whatwg.org/)
 - [Xpath Cheatsheet](https://devhints.io/xpath)
@@ -39,3 +40,4 @@
 - [Practice 10 finger typing](https://monkeytype.com/)
 - [The Internets Archive](https://archive.org/)
 - [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)
+- [ASCII Text Signature Generator](https://www.kammerl.de/ascii/AsciiSignature.php)
