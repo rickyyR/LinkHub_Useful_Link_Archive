@@ -17,6 +17,7 @@
 - [Free and paid game assets](https://itch.io/game-assets)
 - [Common User Agent List](https://www.networkinghowtos.com/howto/common-user-agent-list/)
 ### Databases & Markup
+- [Free and paid online SQL databases](https://www.elephantsql.com/)
 - [DOM Standards](https://dom.spec.whatwg.org/)
 - [Xpath Cheatsheet](https://devhints.io/xpath)
 - [What is a relational database?](https://www.ibm.com/analytics/relational-database)
