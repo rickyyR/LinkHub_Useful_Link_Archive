@@ -42,3 +42,4 @@
 - [The Internets Archive](https://archive.org/)
 - [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)
 - [ASCII Text Signature Generator](https://www.kammerl.de/ascii/AsciiSignature.php)
+- [All Types of UML Diagrams with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
