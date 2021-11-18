@@ -32,6 +32,7 @@
 ## Finances
 - [Make some money answering surveys online](https://www.prolific.co/)
 - [Get high payment for different studies (hard to get in, mostly for industry professionals)](https://app.respondent.io/respondents/v2/login)
+- [Amazon price statistics/tracking/comparison](https://camelcamelcamel.com/)
 
 ## Art
 - ["How to draw" on pretty much everthing you can imagine](https://theetheringtonbrothers.blogspot.com/p/every-how-to-think-when-you-draw.html)
