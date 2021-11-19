@@ -6,6 +6,7 @@
 - [Leetcode - Practice programming problems and more](https://leetcode.com/)
 - [Writeup on game profiling](https://technology.riotgames.com/news/profiling-measurement-and-analysis)
 - [Regex Generator](https://regex-generator.olafneumann.org)
+- [All Types of UML Diagrams with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
 ### Java
 - [Extensive and free course for learning Java (Suited for beginners)](https://java-programming.mooc.fi/)
 - [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
@@ -43,4 +44,4 @@
 - [The Internets Archive](https://archive.org/)
 - [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)
 - [ASCII Text Signature Generator](https://www.kammerl.de/ascii/AsciiSignature.php)
-- [All Types of UML Diagrams with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
+- [Extensive intro/guide to FPV Drone Racing](https://www.propwashed.com/drone-racing-guide/)
