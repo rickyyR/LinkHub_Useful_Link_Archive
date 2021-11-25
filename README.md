@@ -23,6 +23,8 @@
 - [Xpath Cheatsheet](https://devhints.io/xpath)
 - [What is a relational database?](https://www.ibm.com/analytics/relational-database)
 - [Learn PostgreSQL from scratch](https://www.postgresqltutorial.com/)
+## Networking
+- [Network calculator - Subnet calculator](https://www.livewatch.de/en/tools/subnet/calculator)
 
 ## Cyber-Security
 - [VPN Provider Comparison Table](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418)
