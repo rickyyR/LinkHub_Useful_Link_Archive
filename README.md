@@ -25,6 +25,7 @@
 - [Learn PostgreSQL from scratch](https://www.postgresqltutorial.com/)
 ## Networking
 - [Network calculator - Subnet calculator](https://www.livewatch.de/en/tools/subnet/calculator)
+- [Networking for Web Developers by Wim Godden](https://www.youtube.com/watch?v=ek6XowzWQoM)
 
 ## Cyber-Security
 - [VPN Provider Comparison Table](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418)
