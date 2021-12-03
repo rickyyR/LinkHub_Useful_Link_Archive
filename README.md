@@ -34,6 +34,7 @@
 - [Learn Ethical Hacking (some free lessons but mostly paid)](https://tryhackme.com)
 - [Nmap Cheatsheet](https://docs.google.com/document/d/1ekOUND30jr4RmD-QzL5XQUPPoZkbQwJgvuZ7BwlicIE/edit)
 - [Common Vulnerabilities and Exposures Database](https://www.cve.org/)
+- [Assortment of vulnerable virtual machines](https://www.vulnhub.com/)
 
 ## Finances
 - [Make some money answering surveys online](https://www.prolific.co/)
