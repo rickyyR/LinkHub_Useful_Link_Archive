@@ -51,3 +51,4 @@
 - [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)
 - [ASCII Text Signature Generator](https://www.kammerl.de/ascii/AsciiSignature.php)
 - [Extensive intro/guide to FPV drone racing](https://www.propwashed.com/drone-racing-guide/)
+- [Free 3D printable models](https://www.thingiverse.com/)
