@@ -17,6 +17,7 @@
 - [A Visual Guide to Swing Components](https://web.mit.edu/6.005/www/sp14/psets/ps4/java-6-tutorial/components.html)
 ### LUA
 - [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html#29)
+- [Lua 5.4 Reference Manual](https://www.lua.org/manual/5.4/manual.html)
 ### Web
 - [Free HTML5 templates](https://html5up.net/)
 - [Free and paid game assets](https://itch.io/game-assets)
