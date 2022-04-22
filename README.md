@@ -18,6 +18,8 @@
 ### Lua
 - [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 - [Lua 5.4 Reference Manual](https://www.lua.org/manual/5.4/manual.html)
+### C#
+- [C# Crash Course for Java Developers](https://nerdparadise.com/programming/csharpforjavadevs)
 ### Web
 - [Free HTML5 templates](https://html5up.net/)
 - [Free and paid game assets](https://itch.io/game-assets)
