@@ -8,6 +8,7 @@
 - [Regex Generator](https://regex-generator.olafneumann.org)
 - [All Types of UML Diagrams with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
 - [In-browser IDE supporting 50+ languages](https://replit.com/)
+- [15 Sorting Algorithms visualized](https://www.youtube.com/watch?v=kPRA0W1kECg)
 ### Java
 - [Extensive and free course for learning Java (Suited for beginners)](https://java-programming.mooc.fi/)
 - [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
