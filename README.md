@@ -64,3 +64,4 @@
 - [Online Sprite Sheet Packer](https://www.codeandweb.com/free-sprite-sheet-packer)
 - [Lots of free high quality audio for games](https://sonniss.com/gameaudiogdc)
 - [Online tool for making Pixelart](https://www.piskelapp.com/)
+- [Guide on improving game feel](https://gamedevacademy.org/game-feel-tutorial/)
