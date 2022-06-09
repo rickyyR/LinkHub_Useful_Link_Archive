@@ -25,6 +25,13 @@
 - [Free HTML5 templates](https://html5up.net/)
 - [Free and paid game assets](https://itch.io/game-assets)
 - [Common User Agent List](https://www.networkinghowtos.com/howto/common-user-agent-list/)
+### Gamedev
+- [Online Sprite Sheet Packer](https://www.codeandweb.com/free-sprite-sheet-packer)
+- [Lots of free high quality audio for games](https://sonniss.com/gameaudiogdc)
+- [Online tool for making Pixelart](https://www.piskelapp.com/)
+- [Guide on improving game feel](https://gamedevacademy.org/game-feel-tutorial/)
+- [Free high quality Asset Packs](https://www.kenney.nl/assets/rpg-urban-pack)
+
 ### Databases & Markup
 - [Free and paid online SQL databases](https://www.elephantsql.com/)
 - [DOM Standards](https://dom.spec.whatwg.org/)
@@ -61,7 +68,4 @@
 - [Extensive intro/guide to FPV drone racing](https://www.propwashed.com/drone-racing-guide/)
 - [Free 3D printable models](https://www.thingiverse.com/)
 - [Free translator & spell checking](https://www.reverso.net)
-- [Online Sprite Sheet Packer](https://www.codeandweb.com/free-sprite-sheet-packer)
-- [Lots of free high quality audio for games](https://sonniss.com/gameaudiogdc)
-- [Online tool for making Pixelart](https://www.piskelapp.com/)
-- [Guide on improving game feel](https://gamedevacademy.org/game-feel-tutorial/)
+
